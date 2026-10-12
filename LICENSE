@@ -1,0 +1,46 @@
+Greenlight
+Copyright (c) Shift Engineering, Inc. All rights reserved.
+
+Greenlight is proprietary commercial software owned by Shift Engineering, Inc.
+("Shift"). It is not open-source software. Nothing in this file, in the
+software, or in the fact that it can be downloaded without a credential grants
+an open-source license or any right not stated here.
+
+This file covers the Greenlight installer packages, the container images they
+install, the packaged Helm chart, and the release manifests Shift publishes
+(together, "the Software").
+
+WHAT YOU MAY DO
+
+You may install and run the Software in a cloud account, project, or
+subscription that you or your organization own or control, and use it there
+for your organization's own purposes, under Shift's Terms of Service:
+
+    https://shifthq.ai/legal/terms/
+
+You may make the copies needed to do that, including mirroring the container
+images into a private registry your installation pulls from.
+
+WHAT YOU MAY NOT DO
+
+Unless Shift agrees otherwise in writing, you may not:
+
+  - redistribute, publish, sell, rent, or otherwise make the Software or any
+    part of it available to anyone outside your organization, including by
+    re-hosting the installer packages or making the container images
+    available from a registry others can pull from;
+  - sublicense the Software or transfer your rights in it; or
+  - use the Software, or any part of it, to build or offer a product or
+    service that competes with Greenlight.
+
+EVERYTHING ELSE
+
+Shift and its licensors keep all rights not expressly granted here. Your use of
+the Software, including warranties, liability, and termination, is governed by
+the Terms of Service above. How Shift handles the information an installation
+sends it is described in Shift's Privacy Policy:
+
+    https://shifthq.ai/legal/privacy/
+
+Third-party open-source components included in the Software remain under their
+own licenses, and this file does not change those licenses.

@@ -36,6 +36,12 @@ shasum -a 256 greenlight-azure.zip
 Releases marked **pre-release** are Shift's own internal validation builds. Production
 installations track the latest full release, which `releases/latest` already resolves to.
 
+## License
+
+Greenlight is proprietary commercial software. [`LICENSE`](LICENSE) sets out the terms every
+release here is installed under, and the full Terms of Service are at
+<https://shifthq.ai/legal/terms/>. Downloads stay public and still need no credential.
+
 ## Documentation
 
 Installation, upgrades, and administration: <https://greenlightbyshift.com/docs>
